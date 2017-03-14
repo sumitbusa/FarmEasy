@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agriculture</string>
+    <string name="Set_Alarms">" गजर सेट"</string>
+    <string name="action_settings">सेटिंग</string>
+    <string name="crop_name">पीक नाव</string>
+    <string name="fert_days">" नंतर खते जोडा"</string>
+    <string name="getStarted">" सुरु करूया"</string>
+    <string name="harvest_days">" कापणी"</string>
+    <string name="label_btn_find">" शोधणे"</string>
+    <string name="nextButton">" पुढे"</string>
+    <string name="pest_days">" नंतर कीटकनाशक जोडा"</string>
+    <string name="send_button_label">पाठवा</string>
+    <string name="subtitle">" जीवन जगण्यास मदत"</string>
+    <string name="title">शेती</string>
+    <string name="Dealers">वितरक</string>
+    <string name="FarmView">" शेत दृश्य"</string>
+    <string name="Location">स्थान</string>
+    <string name="Machinery">" यंत्रणा"</string>
+    <string name="MarketPrice">" बाजार मुल्य"</string>
+    <string name="Weather">" हवामान"</string>
+</resources>

@@ -1,0 +1,58 @@
+<!--<resources>-->
+<!--<string name="app_name">Friendly Chat</string>-->
+<!--<string name="sign_out">Sign Out</string>-->
+<!--<string name="send_button_label">Send</string>-->
+<!--</resources>-->
+
+<resources>
+    <string name="app_name">FarmEasy</string>
+    <string name="subtitle">Help to live a life</string>
+    <string name="title">Agriculture</string>
+    <string name="getStarted">Get Started</string>
+    <string-array name="location">
+        <item>Select</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Kanpur</item>
+    </string-array>
+    <string-array name="type">
+        <item>Select</item>
+        <item>Seed</item>
+        <item>Pesticides</item>
+        <item>Fertilizer</item>
+        <item>Farm Machinery</item>
+    </string-array>
+    <string-array name="Commodity">
+        <item>Select</item>
+        <item>Apple</item>
+        <item>BeetRoot</item>
+    </string-array>
+    <string-array name="language">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Marathi</item>
+    </string-array>
+    <string name="label_btn_find">Find</string>
+    <string name="title_activity_machinery_activty">MachineryActivty</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="nextButton">Next</string>
+    <string name="crop_name">Crop Name</string>
+    <string name="Set_Alarms">Set Alarms</string>
+    <string name="pest_days">Add pesticide after...</string>
+    <string name="fert_days">Add fertilizers after...</string>
+    <string name="harvest_days">Harvest after</string>
+
+    <string name="send_button_label">Send</string>
+    <string name="FarmView">Farm View</string>
+    <string name="Weather">Weather</string>
+    <string name="Dealers">Dealers</string>
+    <string name="MarketPrice">Market Price</string>
+    <string name="Machinery">Machinery</string>
+    <string name="Location">Location</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FarmEasy</string>
+    <string name="Set_Alarms">अलार्म सेट करो</string>
+    <string name="action_settings">" सेटिंग्स"</string>
+    <string name="crop_name">फसल नाम</string>
+    <string name="fert_days">बाद उर्वरक जोड़ने</string>
+    <string name="getStarted">शुरू हो जाओ</string>
+    <string name="harvest_days">" फ़सल"</string>
+    <string name="label_btn_find">खोज</string>
+    <string name="nextButton">" आगामी"</string>
+    <string name="pest_days">बाद कीटनाशक जोड़ने</string>
+    <string name="send_button_label">भेजना</string>
+    <string name="subtitle">" जीवन जीने के लिए मदद"</string>
+    <string name="Dealers">डीलरों</string>
+    <string name="FarmView">खेत देखें</string>
+    <string name="Location">स्थान</string>
+    <string name="Machinery">मशीनरी</string>
+    <string name="MarketPrice">बाजार मूल्य</string>
+    <string name="Weather">" मौसम"</string>
+    <string name="title">" कृषि"</string>
+</resources>
